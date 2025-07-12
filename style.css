@@ -1,0 +1,54 @@
+body{
+background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.0)), url("backgroundImg.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position:top;
+color:white
+}
+.main{
+    margin-top: 10%;
+}
+
+.gameSection{
+    margin: 20px 30px auto 10px;
+    width: 20%;
+    color: #fff;
+    text-align: center;
+}
+
+.resultParams{
+    margin: 20px 30px auto 10px;
+    width: 20%;
+    color: #fff;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.title{
+    margin: 20px 30px auto 10px;
+    width: 20%;
+    color: #fff;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.navbar{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.homeLink,
+.ProfileLink{
+    -webkit-text-fill-color: #fff;
+    font-weight: bolder;
+}
+
+#subt{
+    background-color: #05ca0c;
+    min-height: 40px;
+    min-width: 80px;
+}
+
+#numberInput{
+    min-height: 30px;
+}
